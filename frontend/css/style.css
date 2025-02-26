@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+input {
+    margin: 10px 0;
+}
+
+pre {
+    background: #f4f4f4;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
